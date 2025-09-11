@@ -6,7 +6,7 @@
 #include <sstream>
 #include <chrono>
 #include <numeric>
-
+// Quem perde tempo e relogio
 class Layer;
 class NeuralNetwork;
 static constexpr uint32_t SEED = 123456u;
