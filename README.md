@@ -1,2 +1,2 @@
 # Parallel-CNN-
-CNN implementations in oneAPI e OpenMP
+CNN implementations in oneAPI and OpenMP
